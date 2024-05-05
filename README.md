@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.05 - StoryDiffusion 高质量开源漫画生成](./2024.05.05.md)
+
+> 探索 Go 的 Fan-Out/Fan-In 模式：让并发更 easy；Node.js 现在原生支持 .env 加载，不再需要 dotenv；StoryDiffusion - 高质量开源漫画生成，支持连续人物，多种漫画风格
+
 ### [2024.05.04 - 开源版 Vercel，应用云托管 PaaS 平台](./2024.05.04.md)
 
 > Gitness - 开源的 GitOps 开发者平台；Dokploy - 开源版 Vercel，应用云托管 PaaS 平台；国产Sora竞争关键，在创意、工作流和垂直场景
