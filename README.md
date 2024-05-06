@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.06 - extension.js 开箱即用、跨浏览器的扩展开发框架](./2024.05.06.md)
+
+> Go 易错点 100 例；Nunu - 一个基于 Go/Gin 的应用脚手架；extension.js - 开箱即用、跨浏览器的扩展开发框架；shiki - 丝滑的代码块变化动画；Node.js 周刊 - Node 22 版本发布；AI人才争夺战，华尔街入局：豪掷百万美元年薪抢人
+
 ### [2024.05.05 - StoryDiffusion 高质量开源漫画生成](./2024.05.05.md)
 
 > 探索 Go 的 Fan-Out/Fan-In 模式：让并发更 easy；Node.js 现在原生支持 .env 加载，不再需要 dotenv；StoryDiffusion - 高质量开源漫画生成，支持连续人物，多种漫画风格
