@@ -9,6 +9,11 @@
 
 --------
 
+
+### [2024.05.07 - MarsCode 字节新推出的WebIDE](./2024.05.07.md)
+
+> MarsCode - 字节新推出的WebIDE；Awesome-Team-Build - 组件一个 MVP 团队的资源；DeepSeek-V2 - 国产开源 MoE 指标炸裂，GPT-4 级别能力，API 价格仅百分之一；Gost - 一个用 GO 语言实现的安全隧道；Soybean Admin - 后台管理模
+
 ### [2024.05.06 - extension.js 开箱即用、跨浏览器的扩展开发框架](./2024.05.06.md)
 
 > Go 易错点 100 例；Nunu - 一个基于 Go/Gin 的应用脚手架；extension.js - 开箱即用、跨浏览器的扩展开发框架；shiki - 丝滑的代码块变化动画；Node.js 周刊 - Node 22 版本发布；AI人才争夺战，华尔街入局：豪掷百万美元年薪抢人
