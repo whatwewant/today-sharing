@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.08 - 知名远程控制工具、TeamViewer开源替代 - RustDesk 已暂停国内服务](./2024.05.08.md)
+
+> Gotenberg - 基于 Docker 的无状态 PDF 创建服务；uikit - 基于 three.js 的 3D 组件库；OpenAI神秘模型，再次被Sam Altman提及；知名远程控制工具、TeamViewer开源替代——RustDesk已暂停国内服务
+
 
 ### [2024.05.07 - MarsCode 字节新推出的WebIDE](./2024.05.07.md)
 
