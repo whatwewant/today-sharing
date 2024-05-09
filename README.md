@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.09 - 大模型卷爆数字人](./2024.05.09.md)
+
+> Crawlab - 一款开源、强悍的分布式爬虫管理平台；Awesome React - React 生态系统资源集合；JavaScript 周刊 - TypeScript v5.5 测试版发布；大模型卷爆数字人：一句话5分钟实现定制，跳舞主持带货都能hold住；CubeFS - 新一代云原生存储系统
+
 ### [2024.05.08 - 知名远程控制工具、TeamViewer开源替代 - RustDesk 已暂停国内服务](./2024.05.08.md)
 
 > Gotenberg - 基于 Docker 的无状态 PDF 创建服务；uikit - 基于 three.js 的 3D 组件库；OpenAI神秘模型，再次被Sam Altman提及；知名远程控制工具、TeamViewer开源替代——RustDesk已暂停国内服务
