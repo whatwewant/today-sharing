@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.12 - 你想要的 emoji 都在 emoji 商店 emoji-mart 里](./2024.05.12.md)
+
+> 国产大模型：今天起，我们 100 万 tokens 只需 1 元；emoji-mart - emoji 商店组件；Go 与 Rust：未来的软件开发大比拼
+
 ### [2024.05.11 - OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎](./2024.05.11.md)
 
 > OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎；手把手教你创造你的本地私人 ChatGPT（上）：本地大模型 Ollama；告别 React，拥抱 Svelte：21天重写应用，开发速度翻倍代码量减半；v8go - Execute JavaScript from Go：Terraform 1.8 发布
