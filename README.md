@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.11 - OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎](./2024.05.11.md)
+
+> OpenAI 官宣下周一发布产品更新，但不会涉及 GPT-5 和搜索引擎；手把手教你创造你的本地私人 ChatGPT（上）：本地大模型 Ollama；告别 React，拥抱 Svelte：21天重写应用，开发速度翻倍代码量减半；v8go - Execute JavaScript from Go：Terraform 1.8 发布
+
 ### [2024.05.10 - 通义千问 2.5 正式发布，性能全面赶超GPT-4](./2024.05.10.md)
 
 > 通义千问2.5正式发布，性能全面赶超GPT-4；真正的入门指南：the-way-to-go_ZH_CN；当AI遇上爬虫：ScrapeGraphAI结合LLM实现前所未有的网页抓取效率，一言即搜；zx - 简化 Node.js Shell 脚本的工具；前端开发中大并发量如何控制并发数
