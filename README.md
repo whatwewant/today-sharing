@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.13 - Meta 公司发布自家的 AI 服务](./2024.05.13.md)
+
+> Melody - 打造实时应用的 WebSocket 框架；vue-styled-components - 面向 Vue 的 CSS-in-JS 库；Meta AI - Meta 公司发布自家的 AI 服务；DocKit - Elasticsearch 的跨平台桌面客户端；Briefcase - 一键将Python项目转化为macOS、Windows、Linux、iOS和Android应用的利器
+
 ### [2024.05.12 - 你想要的 emoji 都在 emoji 商店 emoji-mart 里](./2024.05.12.md)
 
 > 国产大模型：今天起，我们 100 万 tokens 只需 1 元；emoji-mart - emoji 商店组件；Go 与 Rust：未来的软件开发大比拼
