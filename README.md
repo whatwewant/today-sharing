@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.14 - OpenAI 发布 GPT-4o全能模型：支持实时语音视频交互、速度比GPT-4 Turbo快2倍](./2024.05.14.md)
+
+> Borgo - Rust & Go 编程语言；今日分享周刊 003 - 开箱即用、跨浏览器的扩展开发框架；OpenAI 发布 GPT-4o全能模型：支持实时语音视频交互、速度比GPT-4 Turbo快2倍；MeterSphere - 一站式的开源持续测试平台
+
 ### [2024.05.13 - Meta 公司发布自家的 AI 服务](./2024.05.13.md)
 
 > Melody - 打造实时应用的 WebSocket 框架；vue-styled-components - 面向 Vue 的 CSS-in-JS 库；Meta AI - Meta 公司发布自家的 AI 服务；DocKit - Elasticsearch 的跨平台桌面客户端；Briefcase - 一键将Python项目转化为macOS、Windows、Linux、iOS和Android应用的利器
