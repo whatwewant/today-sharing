@@ -9,9 +9,13 @@
 
 --------
 
-### [2024.05.15 -如何利用 SQLite 构建一个高可用的搜索引擎？](./2024.05.15.md)
+### [2024.05.16 - 如何利用 SQLite 构建一个高可用的搜索引擎？](./2024.05.16.md)
 
 > 如何利用 SQLite 构建一个高可用的搜索引擎；Mikro ORM - 基于 TypeScript 的 Node.js ORM 框架，TypeORM 的替代品；腾讯官宣：「混元文生图大模型」全面开源
+
+### [2024.05.15 - 谷歌反击：Project Astra正面硬刚GPT-4o、Veo对抗Sora、新版Gemini变革搜索](./2024.05.15.md)
+
+> Execa v9 大版本发布，支持操作 Pipe；谷歌反击：Project Astra正面硬刚GPT-4o、Veo对抗Sora、新版Gemini变革搜索
 
 
 ### [2024.05.14 - OpenAI 发布 GPT-4o全能模型：支持实时语音视频交互、速度比GPT-4 Turbo快2倍](./2024.05.14.md)
