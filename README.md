@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.17 - 中国大模型列表一览](./2024.05.17.md)
+
+> awesome-LLMs-In-China - 中国大模型列表；GoReleaser - Go 项目发布自动化工具；Imaker - 开源封面设计工具
+
 ### [2024.05.16 - 如何利用 SQLite 构建一个高可用的搜索引擎？](./2024.05.16.md)
 
 > 如何利用 SQLite 构建一个高可用的搜索引擎；Mikro ORM - 基于 TypeScript 的 Node.js ORM 框架，TypeORM 的替代品；腾讯官宣：「混元文生图大模型」全面开源
