@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.20 - 开源的大型多模态模型 LLaVA-NeXT](./2024.05.20.md)
+
+> LLaVA-NeXT - 一种开源的大型多模态模型；lazydocker - 一个基于 Docker 的开源容器管理工具；Shadcn UI - 开源前端组件库
+
 ### [2024.05.19 - 如何从零开始实现一个 DNS 协议解析器](./2024.05.19.md)
 
 > Devon - 一个开源的编程助手；River - 高性能作业处理（Job Processing）系统；QR code designer - QRCode 设计工具
