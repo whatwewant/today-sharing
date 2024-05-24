@@ -9,6 +9,10 @@
 
 --------
 
+### [2024.05.24 - SQL + AI => React Compiler 来啦](./2024.05.24.md)
+
+> Microsoft Power Automate - 微软 AI 语音自动化操作助手；ants - 一个高性能且低损耗的 goroutine 池；React Compiler 来啦
+
 ### [2024.05.22 - SQL + AI => SQL Chat](./2024.05.22.md)
 
 > SQL Chat - 基于对话的SQL客户端，自然语言与数据库交互实现查询、修改和删除操作；logdy - 在浏览器中查看终端日志；React JSON View Lite - 轻量级 JSON 可视化组件
