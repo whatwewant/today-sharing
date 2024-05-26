@@ -9,7 +9,11 @@
 
 --------
 
-### [2024.05.24 - SQL + AI => React Compiler 来啦](./2024.05.24.md)
+### [2024.05.25 - 李飞飞：大模型不具备知觉，参数再多也不行](./2024.05.25.md)
+
+> 李飞飞：大模型不具备知觉，参数再多也不行；tinymath - 快速高效的数学运算库，适用于 WebAssembly 场景；浏览器节能机制导致Websocket断连的巨坑
+
+### [2024.05.24 - React Compiler 来啦](./2024.05.24.md)
 
 > Microsoft Power Automate - 微软 AI 语音自动化操作助手；ants - 一个高性能且低损耗的 goroutine 池；React Compiler 来啦
 
